@@ -7,3 +7,5 @@
 **I used prexsiting code and added accessibility to the website.**
 
 Reach the website here [https://ericy98.github.io/horiseon/]
+
+![screenshot](Develop/assets/images/horisen%20screenshot.png)
