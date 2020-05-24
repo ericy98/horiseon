@@ -8,4 +8,4 @@
 
 Reach the website here [https://ericy98.github.io/horiseon/]
 
-![screenshot](Develop/assets/images/horisen%20screenshot.png)
+![screenshot](/assets/images/horisen%20screenshot.png)
